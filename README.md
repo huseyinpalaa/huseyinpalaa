@@ -6,5 +6,6 @@
 - 🔭 I’m currently working on cyber-security and computer-networks
 - 🌱 I’m currently learning python
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=huseyinpalaa&show_icons=true&bg_color=00000000)">
 
